@@ -1,4 +1,4 @@
 Software_Practices
 ==================
 
-Software Practices 
+Developing composible softwares using MEF 
